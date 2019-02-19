@@ -1,0 +1,8 @@
+COIN_NAME="gossipcoin"
+COIN_PATH="/usr/local/bin/"
+COIN_DAEMON="gossipcoind"
+COIN_CLI="gossipcoin-cli"
+COIN_FOLDER="/root/.gossipcoin"
+COIN_CONFIG="gossipcoin.conf"
+RPC_PORT=22123
+COIN_SERVICE="GOSSIP.service"
